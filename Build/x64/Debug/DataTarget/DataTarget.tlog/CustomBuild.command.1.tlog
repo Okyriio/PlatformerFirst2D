@@ -1,0 +1,138 @@
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\BUILD\CMAKEFILES\53B01D1D861965AA848B9CDA4BFB0299\CUP ICONS.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy "C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/data/Cup Icons.png" "C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/data/Cup Icons.png"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\BUILD\CMAKEFILES\53B01D1D861965AA848B9CDA4BFB0299\GENERIC_PLATFORMER_PACK__BAKUDAS.RAR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/data/generic_platformer_pack__bakudas.rar C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/data/generic_platformer_pack__bakudas.rar
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\BUILD\CMAKEFILES\A877B7B4829F896233970BF2BCD5C408\ATLAS.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/data/sprites/atlas.png C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/data/sprites/atlas.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\BUILD\CMAKEFILES\A877B7B4829F896233970BF2BCD5C408\CUP.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/data/sprites/cup.png C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/data/sprites/cup.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\BUILD\CMAKEFILES\5A279CC70ED10C6318E7E5D1E18B9DF5\HERO1.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/data/sprites/hero/Move/hero1.png C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/data/sprites/hero/Move/hero1.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\BUILD\CMAKEFILES\5A279CC70ED10C6318E7E5D1E18B9DF5\HERO2.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/data/sprites/hero/Move/hero2.png C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/data/sprites/hero/Move/hero2.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\BUILD\CMAKEFILES\5A279CC70ED10C6318E7E5D1E18B9DF5\HERO3.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/data/sprites/hero/Move/hero3.png C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/data/sprites/hero/Move/hero3.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\BUILD\CMAKEFILES\1780E8435504BC833FA2DD41CB860438\HERO1.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/data/sprites/hero/jump/hero1.png C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/data/sprites/hero/jump/hero1.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\BUILD\CMAKEFILES\F92678E45DE4A57A40F2C331A0A2B907\HERO1.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/data/sprites/hero/still/hero1.png C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/data/sprites/hero/still/hero1.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\BUILD\CMAKEFILES\A877B7B4829F896233970BF2BCD5C408\PLATFORM.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/data/sprites/platform.png C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/data/sprites/platform.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\BUILD\CMAKEFILES\A877B7B4829F896233970BF2BCD5C408\WALL.JPG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/data/sprites/wall.jpg C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/data/sprites/wall.jpg
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\BUILD\CMAKEFILES\A877B7B4829F896233970BF2BCD5C408\WALL2.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/data/sprites/wall2.png C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/data/sprites/wall2.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\BUILD\CMAKEFILES\129A8456A5EC8A21BA9C46B43399B1A1\DATATARGET.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D -BC:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build --check-stamp-file C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

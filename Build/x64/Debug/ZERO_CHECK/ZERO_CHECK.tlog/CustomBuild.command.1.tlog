@@ -1,0 +1,10 @@
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\BUILD\CMAKEFILES\129A8456A5EC8A21BA9C46B43399B1A1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D -BC:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/Platformer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

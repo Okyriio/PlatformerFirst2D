@@ -1,0 +1,4 @@
+C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/CMakeFiles/DataTarget.dir
+C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/CMakeFiles/Platformer.dir
+C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ptit-\Documents\ProjetSae\PlatformerFirst2D\Build\CMakeFiles\53b01d1d861965aa848b9cda4bfb0299\Cup Icons.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ptit-\Documents\ProjetSae\PlatformerFirst2D\Build\CMakeFiles\53b01d1d861965aa848b9cda4bfb0299\generic_platformer_pack__bakudas.rar.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ptit-\Documents\ProjetSae\PlatformerFirst2D\Build\CMakeFiles\a877b7b4829f896233970bf2bcd5c408\atlas.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ptit-\Documents\ProjetSae\PlatformerFirst2D\Build\CMakeFiles\a877b7b4829f896233970bf2bcd5c408\cup.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ptit-\Documents\ProjetSae\PlatformerFirst2D\Build\CMakeFiles\5a279cc70ed10c6318e7e5d1e18b9df5\hero1.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ptit-\Documents\ProjetSae\PlatformerFirst2D\Build\CMakeFiles\5a279cc70ed10c6318e7e5d1e18b9df5\hero2.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ptit-\Documents\ProjetSae\PlatformerFirst2D\Build\CMakeFiles\5a279cc70ed10c6318e7e5d1e18b9df5\hero3.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ptit-\Documents\ProjetSae\PlatformerFirst2D\Build\CMakeFiles\1780e8435504bc833fa2dd41cb860438\hero1.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ptit-\Documents\ProjetSae\PlatformerFirst2D\Build\CMakeFiles\f92678e45de4a57a40f2c331a0a2b907\hero1.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ptit-\Documents\ProjetSae\PlatformerFirst2D\Build\CMakeFiles\a877b7b4829f896233970bf2bcd5c408\platform.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ptit-\Documents\ProjetSae\PlatformerFirst2D\Build\CMakeFiles\a877b7b4829f896233970bf2bcd5c408\wall.jpg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ptit-\Documents\ProjetSae\PlatformerFirst2D\Build\CMakeFiles\a877b7b4829f896233970bf2bcd5c408\wall2.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ptit-\Documents\ProjetSae\PlatformerFirst2D\Build\CMakeFiles\129a8456a5ec8a21ba9c46b43399b1a1\DataTarget.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ptit-\Documents\ProjetSae\PlatformerFirst2D\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\ptit-\Documents\ProjetSae\PlatformerFirst2D\Build\CMakeFiles\DataTarget" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{23219234-76DA-3690-B672-604F0764A613}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

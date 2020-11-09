@@ -1,0 +1,10 @@
+^C:\USERS\PTIT-\DOCUMENTS\PROJETSAE\PLATFORMERFIRST2D\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D -BC:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build --check-stamp-file C:/Users/ptit-/Documents/ProjetSae/PlatformerFirst2D/Build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
